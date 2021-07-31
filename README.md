@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-#Bubble Sort
+# Bubble Sort
 
 O Bubble Sort é um algoritmo de ordenação. Dado um vetor, o algoritmo percorre esse vetor n-1
 vezes fazendo comparações entre elementos que estão em posições consecutivas. Portanto,
@@ -15,7 +15,7 @@ O grau de complexidade do algoritmo no melhor caso é O(n), quando o vetor já e
 pior caso ocorre quando o vetor está ordenado em ordem decrescente, pois será necessário a troca
 em todas as iterações, sendo da ordem O(n2).
 
-#Quicksort
+# Quicksort
 
 O quick sort é um algoritmo de ordenação e usa a técnica de dividir para conquistar. Dado um vetor é
 escolhido um elemento do vetor chamado de pivô ou ponto de divisão. A função do pivô é servir de
@@ -36,7 +36,7 @@ Ocorre quando o pivô escolhido divide o vetor em dois subvetores de tamanho igu
 seja, o ponto de divisão fica na metade do vetor;
 Complexidade: O (n log n)
 
-#Quicksort Probabilístico
+# Quicksort Probabilístico
 
 Como mostrado acima convencionalmente primeiro elemento da lista. Entretanto, para obter
 uma maior eficiência no algoritmo é escolhido aleatoriamente um elemento do vetor, segundo
